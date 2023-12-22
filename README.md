@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->  
-- 🌱 Recent Data Analytics graduate from San Jose State University.
+- 🌱 Recent Data Analytics masters graduate from San Jose State University.
 - 🔭 I enjoy coding and am always experimenting with LLMs. 
 - 📫 You can reach me at swethasubramanian@sjsu.edu
